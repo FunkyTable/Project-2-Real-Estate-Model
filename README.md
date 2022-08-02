@@ -12,9 +12,9 @@
 1. Source of data
       * All data used in this project was from King County. It is a database full of various statistics regarding home sales in the county. 
 3. Three visualizations (the same visualizations presented in the slides and notebook)
-    * [Visualization 1](https://github.com/FunkyTable/dsc-phase-1-project-v2-4/blob/master/Visualizations/Q1%20Genres%20in%20half-billion%20films.png?raw=true)
-    * [Visualization 2](https://github.com/FunkyTable/dsc-phase-1-project-v2-4/blob/master/Visualizations/Q2%20Release%20Month%20Average%20-%20All%20Films.png?raw=true)
-    * [Visualization 3](https://github.com/FunkyTable/dsc-phase-1-project-v2-4/blob/master/Visualizations/Q2%20Release%20month%20of%20half%20billion%20films.png?raw=true)
+    * [Bathroom Curve](https://github.com/FunkyTable/dsc-phase-2-project-real-estate/blob/62e058414918e990f06c48f9bcfd89876f227bbc/Visualizations/Bathrooms%20Curve.png)
+    * [Grade Curve](https://github.com/FunkyTable/dsc-phase-2-project-real-estate/blob/62e058414918e990f06c48f9bcfd89876f227bbc/Visualizations/Grade%20Curve.png)
+    * [Year Curve](https://github.com/FunkyTable/dsc-phase-2-project-real-estate/blob/62e058414918e990f06c48f9bcfd89876f227bbc/Visualizations/Year%20Curve.png)raw=true)
     
     
 ## Conclusion
