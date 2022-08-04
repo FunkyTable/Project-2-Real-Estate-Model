@@ -11,10 +11,21 @@
 ## Data Understanding and Analysis
 1. Source of data
       * All data used in this project was from King County. It is a database full of various statistics regarding home sales in the county. 
-3. Three visualizations (the same visualizations presented in the slides and notebook)
-    * [Bathroom Curve](https://github.com/FunkyTable/dsc-phase-2-project-real-estate/blob/62e058414918e990f06c48f9bcfd89876f227bbc/Visualizations/Bathrooms%20Curve.png)
-    * [Grade Curve](https://github.com/FunkyTable/dsc-phase-2-project-real-estate/blob/62e058414918e990f06c48f9bcfd89876f227bbc/Visualizations/Grade%20Curve.png)
-    * [Year Curve](https://github.com/FunkyTable/dsc-phase-2-project-real-estate/blob/62e058414918e990f06c48f9bcfd89876f227bbc/Visualizations/Year%20Curve.png)raw=true)
+3. Visualizations
+  Three visualizations (the same visualizations presented in the slides and notebook)
+    * ![Bathroom Curve](Visualizations/Bathrooms%20Curve.png)
+    * ![Grade Curve](Visualizations/Grade%20Curve.png)
+    * ![Year Curve](Visualizations/Year%20Curve.png)
+  Seven graphics exclusively for aesthetics in the Google Slides doc.
+    * ![Bathroom](Visualizations/Bathroom.jpg)
+    * ![Commission](Visualizations/Commission.jpg)
+    * ![Growth](Visualizations/Growth.png)
+    * ![High Grade](Visualizations/High%20Grade.jpg)
+    * ![KingCounty](Visualizations/KingCounty.jpg)
+    * ![Questionmark](Visualizations/Questionmark.jpg)
+    * ![Scatterplot](Visualizations/Scatterplot.png)
+    * ![Waterfront](Visualizations/Waterfront.jpg)
+
     
     
 ## Conclusion
