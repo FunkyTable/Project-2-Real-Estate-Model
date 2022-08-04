@@ -42,4 +42,22 @@
       * These homes’ average sale price is $1,717,215.
       * Salesmen should make long term goals to represent one of these homes.
 
+## Repository Structure
+
+```
+  ├── data : data used for modeling
+  ├── Visualizations : images used in PPT and readme
+├──.canvas : File provided by Flatiron
+├──.gitignore : File provided by Flatiron
+├──github.pdf : PDF of repository
+├──LICENSE.md : File provided by Flatiron
+├──Mega_Pertinent_Stats.xlsx : Output of model transformations iterations notebook
+├──Model_Statistics_Function.ipynb : model transformations iterations notebook
+├──Notebook.pdf print of jupyter notebook used for modeling
+├──Notebook-Model_Statistics_Function.pdf : PDF copy of notebook
+├──Notes From Meetings.ipynb : Meeting notes from meeting with professors
+├──Presentation.pdf : Presentation for Stakeholders
+├──README.md : project information and repository structure
+└──student.ipynb : Jupyter Notebook
+```
 
