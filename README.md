@@ -1,7 +1,7 @@
 # Project 2 - Maple Homes
 
 ## Overview
-1. This is GitHub repository represents the final project submission for Greg Osborne's second project at FlatIron school. The project assignment was to analyze a selected set of data for recommendations to present to a real estate company, Maple Homes.
+1. This GitHub repository represents the final project submission for Greg Osborne's second project at FlatIron school. The project assignment was to analyze a selected set of data for recommendations to present to a real estate company, Maple Homes.
 ## Business Understanding
 1. Maple Homes is moving in to King County and wants to provide good business recommendations to their employees to help them use their time wisely.
 2. I made business recommendations based on the following three variables:
